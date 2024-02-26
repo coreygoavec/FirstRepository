@@ -1,7 +1,10 @@
 # FirstRepository of Friday Projects
 
+This is a repository for the first three friday projects we did, but this time we used AI to generate the code
+for us.
+
 The First project that was generated using AI is a game involving madlibs. The user is asked to provide words
-that will then be used to fill in blanks that the program will put in. At the end of asking the user for inputs.
+that will then be used to fill in blanks that the program will put in. At the end of asking the user for inputs,
 it will display all of the inputs in a story for the user to read.
 
 The second project that was generated using AI is a code that generates 6 total numbers for the user that act as
